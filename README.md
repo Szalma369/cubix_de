@@ -28,4 +28,12 @@ It utilizes a variety of tools and services, primarily focusing on Python and AW
 
 Consider below charts as results of the EDA:
 
+![Trip Total by Payment Type](trip_total_by_payment_type.png)
 
+![Top 10 Companies by Total Fare](top10_companies_by_total_fare.png)
+
+![Top 10 Pickup Community Areas by Rides Count](top10_pickup_community_areas_by_rides_count.png)
+
+![Weekday Comparison by Trip Total](weekday_comparison_by_trip_total.png)
+
+![Total Trip Miles by Date](total_trip_miles_by_date.png)

@@ -26,3 +26,6 @@ It utilizes a variety of tools and services, primarily focusing on Python and AW
 - Web Scraping: A web scraping script collects community area names from Wikipedia, replacing the numeric IDs provided in the original dataset.
 - Dimension Tables: Separate dimension tables are created for dates, payment types and companies to normalize the data and improve query performance.
 
+Consider below charts as results of the EDA:
+
+
